@@ -38,7 +38,7 @@ import getTemplate from "./get-template";
 const styles = StyleSheet.create({
   webView: {
     flex: 1,
-    backgroundColor: "rgba(0, 0, 0, 0.5)",
+    backgroundColor: "transparent",
   },
   loading: {
     position: "absolute",
